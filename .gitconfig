@@ -1,0 +1,15 @@
+[user]
+	email = muhammad12fk@gmail.com
+	name = MuhammadFarouk12
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credentia
+[http]
+	timeout = 30000
+	lowSpeedLimit = 0
+	lowSpeedTime = 999999
+[https]
+	timeout = 30000
+[alias]
+	graph = log --graph --color --decorate
+	lg = log --graph --color --decorate
