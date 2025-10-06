@@ -154,6 +154,7 @@ setxkbmap -option caps:swapescape
 # Custom Aliases are Here:
 alias cls="clear"
 alias clr="clear"
+alias c="clear"
 alias :q="exit"
 alias :Q="exit"
 alias fmng="nautilus"
